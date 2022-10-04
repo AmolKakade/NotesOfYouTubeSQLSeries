@@ -1,6 +1,10 @@
 ----------------------------
 OVER and PARTITION BY clause
 ----------------------------
+**** NOTE **** ( Own updation)                                                                                                              **** VVVIMP ****
+- row_number(), dense_rank() & rank(), lag(), lead() - "order by" IS MANDOTORY
+- max(), min(), sum(), avg() - "order by" IS NOT MANDOTORY
+
 
 -- From here we won't use goorm IDE, because that was using older versions of MySQL instead we will use https://onecompiler.com/mysql
 
